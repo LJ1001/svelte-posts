@@ -1,5 +1,6 @@
 <script lang="ts">
   let posts: any[] = []
+  let promise = Promise.resolve()
 
 </script>
 
